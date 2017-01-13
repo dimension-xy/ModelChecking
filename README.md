@@ -1,6 +1,5 @@
 # ModelChecking
-  * モデル検査用のGit  
-  * 分割モデルとか扱う
+  モデル検査用のGit
   
 # 環境
   * mac capitan  
