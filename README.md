@@ -4,5 +4,5 @@
 # 環境
   * mac capitan  
   * pycharm  
-  - python-2.7.10  
-  - py2neo  
+    - python-2.7.10  
+    - py2neo  
