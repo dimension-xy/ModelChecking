@@ -1,7 +1,7 @@
 # ModelChecking
   モデル検査用のGit
   
-## 環境
+## 開発環境
   * mac capitan  
   * Neo4j COMMUNITY EDITION 3.0.7
   * pycharm  
