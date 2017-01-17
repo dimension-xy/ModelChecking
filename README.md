@@ -10,6 +10,6 @@
 
 ## 参考
 - neo4jリファレンス  
-  - http://neo4j.com/docs/cypher-refcard/current/  
+ - http://neo4j.com/docs/cypher-refcard/current/  
 - py2neoリファレンス  
-  - http://py2neo.org/v3/index.html
+ - http://py2neo.org/v3/index.html
