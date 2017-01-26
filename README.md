@@ -9,7 +9,7 @@
  - py2neo  
 
 ## 参考
-- neo4jリファレンス  
+- Cypherリファレンス  
  - http://neo4j.com/docs/cypher-refcard/current/  
 - py2neoリファレンス  
  - http://py2neo.org/v3/index.html
