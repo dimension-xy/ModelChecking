@@ -7,9 +7,10 @@
 - pycharm  
  - python-2.7.10  
  - py2neo  
+ - pandas  
 
 ## 参考
-- neo4jリファレンス  
+- Cypherリファレンス  
  - http://neo4j.com/docs/cypher-refcard/current/  
 - py2neoリファレンス  
  - http://py2neo.org/v3/index.html
