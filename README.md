@@ -7,6 +7,7 @@
 - pycharm  
  - python-2.7.10  
  - py2neo  
+ - pandas  
 
 ## 参考
 - Cypherリファレンス  
